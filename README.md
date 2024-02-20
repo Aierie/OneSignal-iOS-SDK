@@ -1,3 +1,5 @@
+Forked to fix iOS upload failing.
+
 <p align="center">
   <img src="https://media.onesignal.com/cms/Website%20Layout/logo-red.svg"/>
 </p>
